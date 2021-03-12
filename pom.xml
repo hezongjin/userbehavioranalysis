@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>hotitemsanalysis</module>
+        <module>networkflowanalysis</module>
+        <module>marketanalysis</module>
+        <module>loginfaildetect</module>
+        <module>orderpaydetect</module>
     </modules>
 
     <properties>

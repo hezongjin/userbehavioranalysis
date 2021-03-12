@@ -10,15 +10,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dadiyunwu</groupId>
-    <artifactId>hotitemsanalysis</artifactId>
+    <artifactId>marketanalysis</artifactId>
     <version>1.0-SNAPSHOT</version>
-
 
     <dependencies>
         <dependency>
-            <groupId>redis.clients</groupId>
-            <artifactId>jedis</artifactId>
-            <version>3.0.0</version>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>5.1.35</version>
         </dependency>
     </dependencies>
 
